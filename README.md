@@ -14,7 +14,9 @@ How to install this project
 1. create database
 2. import 'wordpress.sql' in database
 3. download wordpress form [https://th.wordpress.org/](https://th.wordpress.org/).
-4. login user: admin, password: admin31012545
+4. login
+   - user: admin
+   - password: admin31012545
 
 ## Home page
 <br>
